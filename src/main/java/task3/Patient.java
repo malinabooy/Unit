@@ -10,10 +10,10 @@ class Patient {
     }
 
     public String getName() {
-        return 0;
+        return this.name;
     }
 
     public String getPatientId() {
-        return 0;
+        return this.patientId;
     }
 }

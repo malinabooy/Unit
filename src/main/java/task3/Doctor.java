@@ -10,10 +10,10 @@ class Doctor {
     }
 
     public String getName() {
-        return 0;
+        return this.name;
     }
 
     public String getSpecialization() {
-        return 0;
+        return this.specialization;
     }
 }
